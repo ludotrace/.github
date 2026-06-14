@@ -1,6 +1,6 @@
-# LudoTrace
+<img src="banner.svg" alt="LudoTrace — YOUR GAME. YOUR DATA." width="100%"/>
 
-**Your game. Your data.**
+---
 
 LudoTrace captures what actually happens when you play — and makes that data useful.
 
@@ -8,7 +8,7 @@ Every session tells a story. LudoTrace writes it down.
 
 ---
 
-## How it works
+## HOW IT WORKS
 
 1. Install the mod for your game
 2. Play normally
@@ -19,15 +19,15 @@ The log is plain JSONL — readable by humans, parseable by machines, compatible
 
 ---
 
-## Current mods
+## CURRENT MODS
 
-| Game | Status |
+| GAME | STATUS |
 |------|--------|
 | [Fallout 4](https://github.com/ludotrace/fallout4) | Active |
 
 ---
 
-## The pattern
+## THE PATTERN
 
 > Local game state → structured event log → your reasoning layer
 
@@ -35,7 +35,7 @@ The mod is the black box. What you do with the data is up to you. Coach yourself
 
 ---
 
-## Contributing
+## CONTRIBUTING
 
 Open source. If you want to build a mod for another game, open an issue or a PR.
 
