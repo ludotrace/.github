@@ -24,6 +24,7 @@ The log is plain JSONL — readable by humans, parseable by machines, compatible
 | GAME | STATUS |
 |------|--------|
 | [Fallout 4](https://github.com/ludotrace/fallout4) | Active |
+| [Stardew Valley](https://github.com/ludotrace/stardew) | Active |
 
 ---
 
